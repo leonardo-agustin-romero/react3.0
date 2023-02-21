@@ -1,0 +1,9 @@
+.logo{
+    display: inline;
+    box-sizing: border-box;
+    height: 4rem;
+    width: rem;
+    border-radius: 100%;
+    transition: all 1.5s;
+
+}
